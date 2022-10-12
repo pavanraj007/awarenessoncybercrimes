@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    /*background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(https://www.ict.eu/sites/corporate/files/images/Cyber%20security%20header_1920x1280px%20%281%29.jpg);
+    background-position: center;
+    background-size: cover;*/
+    height: auto;
+    /*background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(https://static.vecteezy.com/system/resources/previews/006/327/095/original/dark-blue-gradient-colors-abstract-blurred-background-for-landing-page-free-vector.jpg);*/
+}
+.content{
+    width: 80%;
+    height: auto;
+    margin: auto;
+    position: relative;
+    text-align: justify;
+}
+
+.content .par{
+    font-family: 'Arial';
+    font-size: 20px;
+    letter-spacing: 1px;
+    line-height: 25px;
+}
+.content .par1{
+    font-family: 'Arial';
+    font-size: 25px;
+    letter-spacing: 0.7px;
+    line-height: 25px;
+}
+
+.content h1{
+    font-family: 'Arial';
+    font-size: 45px;
+    letter-spacing: 1.5px;
+    margin-top: 1%;
+}
+.content h2{
+    font-family: 'Times New Roman';
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+
+.content .cn{
+    width: 150px;
+    height: 50px;
+    background: #ffffff;
+    border: 1px solid #000000;
+    margin-bottom: 10px;
+    font-size: 18px;
+    margin-left: 90%;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: .4s ease;
+}
+
+.content .theme{
+    width: 150px;
+    height: 50px;
+    background: #ffffff;
+    border: 1px solid #000000;
+    font-size: 18px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: .4s ease;
+    margin-left: 90%;
+    position: absolute;
+}
+.content .theme:hover{
+    background-color: rgb(230, 230, 230);
+}
+.content .cn a{
+    text-decoration: none;
+    color: #000;
+    transition: .3s ease;
+}
+
+.cn:hover{
+    background-color: rgb(240, 240, 240);
+}
+.theme:hover{
+    background-color: rgb(240, 240, 240);
+}
+
+.content span1{
+    color: #ffffff;
+    font-size: 65px
+}
+
+.content span2{
+    color: #ff7200;
+    font-size: 85px
+}
+.content span3{
+    color: #dedede;
+    font-size: 10px
+    font-family: 'Calibri';
+}
+.scroll-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    font-size: 5em;
+  }
+  .dark-mode {
+    background-color: black;
+    color: #ffffff;
+    }
+    span{
+        color: #0039a6;
+        font-weight: 700;
+        text-decoration:underline ;
+        font-size: 30px;
+      }
+      ul.a {
+        list-style-type: square;
+      }
