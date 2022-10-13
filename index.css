@@ -310,7 +310,7 @@ a:active {
 @media screen and (max-width: 600px){
     .main{
     width: auto;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fhd-wallpaper-desktop-nzhyv&psig=AOvVaw0WRXN32Nz7qUFD3HxauLkT&ust=1665765345772000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCKi18dHR3foCFQAAAAAdAAAAABAm.jpg);
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(mobileimg.jpg);
     background-position: center;
     background-size: cover;
 }
