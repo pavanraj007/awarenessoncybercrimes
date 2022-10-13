@@ -307,9 +307,9 @@ a:active {
     background-color: transparent;
     text-decoration: none;
 }
-@media screen and (max-width: 600px){
+@media screen and (max-width: 1080px){
     .main{
-    background: background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(12,12,167,1) 54%);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(12,12,167,1) 54%);
     width: auto;
     height: auto;
 }
