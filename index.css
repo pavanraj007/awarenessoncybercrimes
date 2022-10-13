@@ -309,5 +309,5 @@ a:active {
 }
 @media screen and (max-width: auto) {
     width: auto;
-    height: 100%;  
+    height: auto;  
 }
