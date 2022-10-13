@@ -310,7 +310,7 @@ a:active {
 @media screen and (max-width: 600px){
     .main{
     width: auto;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(mobileimg.jpg);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,113,255,1) 100%);
     background-position: center;
     background-size: cover;
 }
