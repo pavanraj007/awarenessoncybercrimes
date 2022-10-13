@@ -307,7 +307,7 @@ a:active {
     background-color: transparent;
     text-decoration: none;
 }
-@media screen and (max-width: 600px) {
-    background-width: auto;
-    background-height: auto;  
+@media screen and (max-width: auto) {
+    width: auto;
+    height: 100%;  
 }
