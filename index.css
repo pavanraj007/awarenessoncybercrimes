@@ -307,11 +307,7 @@ a:active {
     background-color: transparent;
     text-decoration: none;
 }
-@media screen and (max-width: 1000px) {
-.main{
-    width: 100%;
-    height: auto;
-    }
+@media screen{
  .content h1{
     font-size: 120px;
     text-align: center;
@@ -319,5 +315,15 @@ a:active {
     letter-spacing: 2px;
     line-height: 150px;
 }
+    .content span1{
+    color: #ffffff;
+    font-size: 90px
+}
+
+.content span2{
+    color: #ff7200;
+    font-size: 100px
+}
+    
     
 }
