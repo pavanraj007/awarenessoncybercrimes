@@ -307,12 +307,9 @@ a:active {
     background-color: transparent;
     text-decoration: none;
 }
-@media screen and (max-width: auto) {
+@media screen and (max-width: 1000px) {
     .main{
-    width: 100vh;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(https://www.ict.eu/sites/corporate/files/images/Cyber%20security%20header_1920x1280px%20%281%29.jpg);
-    background-position: center;
-    background-size: cover;
-    height: 100vh;
+    width: auto;
+    height: auto;
 }  
 }
