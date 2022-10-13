@@ -308,12 +308,16 @@ a:active {
     text-decoration: none;
 }
 @media screen{
+    .main{
+    width: 100%;
+    height: auto;
+}
  .content h1{
     font-size: 120px;
     text-align: center;
     margin-top: 30%;
     letter-spacing: 2px;
-    line-height: 180px;
+    line-height: 200px;
 }
     .content span1{
     color: #ffffff;
@@ -322,8 +326,23 @@ a:active {
 
 .content span2{
     color: #ff7200;
-    font-size: 130px
+    font-size: 135px
 }
+    .content .cn{
+    width: 500px;
+    height: 200px;
+    font-family: Arial;
+    background: #ffffff;
+    border: 4px solid #000000;
+    /*margin-bottom: 10px;*/
+    font-size: 50px;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: .4s ease;
+    position: center;
+    margin-left: 19.6%;
+    margin-top: 0px;
+    letter-spacing: 0.8px;
     
     
 }
