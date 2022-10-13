@@ -308,8 +308,16 @@ a:active {
     text-decoration: none;
 }
 @media screen and (max-width: 1000px) {
-    .main{
-    width: auto;
+.main{
+    width: 100%;
     height: auto;
-}  
+    }
+ .content h1{
+    font-size: 120px;
+    text-align: center;
+    margin-top: 10%;
+    letter-spacing: 2px;
+    line-height: 150px;
+}
+    
 }
