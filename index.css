@@ -310,7 +310,6 @@ a:active {
 @media screen and (max-width: 2160px){
     .main{
     background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(12,12,167,1) 54%);
-    bacground-size: auto;
 }
  .content h1{
     font-size: 120px;
