@@ -307,13 +307,7 @@ a:active {
     background-color: transparent;
     text-decoration: none;
 }
-/*REFERENCES
-1. Gunjan, Vinit Kumar, Amit Kumar, and Sharda Avdhanam. “A survey of cyber crime in India.” In 2013 15th International Conference on Advanced Computing Technologies (ICACT), pp. 1-6. IEEE, 2013.
-
-2. Roy, Apurba Kumar. “Role of cyber law and its usefulness in Indian IT industry.” In 2012 1st International Conference on Recent Advances in Information Technology (RAIT), pp. 143-147. IEEE, 2012.
-
-3. Mehta, Saroj, and Vikram Singh. “A study of awareness about cyber laws in the Indian society.” International Journal of Computing and Business Research 4, no. 1 (2013): 1-8.
-
-4. Lunker, Manish. “Cyber laws: a global perspective.” manishl@india.com (2009).
-
-5. Sarmah, Animesh, Roshmi Sarmah, and Amlan Jyoti Baruah. “A brief study on cyber crime and cyber laws of India.” International Research Journal of Engineering and Technology (IRJET) 4, no. 6 (2017): 1633-1640.*/
+@media screen and (max-width: 600px) {
+    background-width: auto;
+    background-height: auto;  
+}
