@@ -108,7 +108,7 @@
 .content .par{
     font-family: 'Arial';
     font-size: 16px;
-    text-align: center;
+    text-align: justify;
 }
 
 .content h1{
@@ -135,18 +135,18 @@
     margin-bottom: 10px;
     font-size: 15px;
     margin-left: 75%;
-    border-radius: 18px;
+    border-radius: 15px;
     cursor: pointer;
     transition: .4s ease;
 }
 
 .content .theme{
-    width: 90px;
-    height: 40px;
+    width: 120px;
+    height: 30px;
     background: #ffffff;
     border: 1px solid #000000;
     font-size: 15px;
-    border-radius: 18px;
+    border-radius: 15px;
     cursor: pointer;
     transition: .4s ease;
     margin-left: 78%;
