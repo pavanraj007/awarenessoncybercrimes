@@ -108,7 +108,8 @@
 .content .par{
     font-family: 'Arial';
     font-size: 16px;
-    text-align: left;
+    text-align: center;
+    margin: 95%;
 }
 
 .content h1{
