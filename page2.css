@@ -204,7 +204,7 @@ h4{
   float: left;
   border: 1px solid #ccc;
   background-color: rgb(200, 200, 200);
-  width: 35%;
+  width: auto;
   height: 160px;
   overflow-y: auto;
   scroll-behavior: smooth;
@@ -227,7 +227,7 @@ h4{
 }
   .tabcontent {
   float: left;
-  width: auto;
+  width: 70%;
   height: auto;
   text-align: left;
   content: justify; 
