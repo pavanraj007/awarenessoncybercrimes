@@ -108,7 +108,6 @@
 .content .par{
     font-family: 'Arial';
     font-size: 16px;
-    text-align: justify;
 }
 
 .content h1{
@@ -146,10 +145,10 @@
     background: #ffffff;
     border: 1px solid #000000;
     font-size: 15px;
-    border-radius: 15px;
+    border-radius: 12px;
     cursor: pointer;
     transition: .4s ease;
-    margin-left: 78%;
+    margin-left: 72%;
     position: relative;
 }
 }
