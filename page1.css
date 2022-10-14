@@ -108,9 +108,10 @@
 .content .par{
     font-family: 'Arial';
     font-size: 16px;
-    letter-spacing: 1px;
+    letter-spacing: auto;
     line-height: auto;
     text-align: center;
+    content: justify;
 }
 
 .content h1{
@@ -130,8 +131,8 @@
 }
 
 .content .cn{
-    width: 75px;
-    height: 25px;
+    width: 80px;
+    height: 30px;
     background: #ffffff;
     border: 1px solid #000000;
     margin-bottom: 10px;
@@ -143,15 +144,15 @@
 }
 
 .content .theme{
-    width: 75px;
-    height: 25px;
+    width: 80px;
+    height: 30px;
     background: #ffffff;
     border: 1px solid #000000;
     font-size: 14px;
     border-radius: 20px;
     cursor: pointer;
     transition: .4s ease;
-    margin-left: 75%;
+    margin-left: 78%;
     position: relative;
 }
 }
