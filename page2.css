@@ -182,7 +182,7 @@ ul.a {
   font-size: 24px;
   text-align: center;
   margin-top: 2%;
-  margin-bottom: 1%;
+  margin-bottom: 2%;
 }
 h3{
   font-size: 20px;
@@ -192,10 +192,9 @@ h3{
   line-height: 40px;
 }
 p{
-  font-size: 10px;
+  font-size: 12px;
   letter-spacing: 0.5px;
   line-height: 15px;
-  width: 90%;
 }
 h4{
   font-size: 15px;
@@ -205,7 +204,7 @@ h4{
   float: left;
   border: 1px solid #ccc;
   background-color: rgb(200, 200, 200);
-  width: 30%;
+  width: 35%;
   height: 160px;
   overflow-y: auto;
   scroll-behavior: smooth;
@@ -216,22 +215,19 @@ h4{
   display: block;
   background-color: inherit;
   color: black;
-  padding: 15px 10px;
   width: 100%;
   border: none;
   outline: none;
-  text-align: left;
+  text-align: center;
   cursor: pointer;
   transition: 0.3s;
   font-size: 12px;
-  letter-spacing: 0.5px;
+  letter-spacing: 0.8px;
 
 }
   .tabcontent {
   float: left;
-  width: 70%;
-  border-left: 2px;
-  border-right: 2px;
+  width: 65%;
   height: auto;
   text-align: left;
   line-height: 30px;
@@ -241,7 +237,6 @@ h4{
   height: 50px;
   width: 30%;
   background: white;
-  border: none;
   outline: none;
   border-radius: 5px;
   overflow: hidden;
@@ -250,6 +245,7 @@ h4{
   font-weight: 500;
   cursor: pointer;
   position: relative;
+  margin-top: -5%;
 }
   .button__text {
   display: inline-flex;
@@ -260,10 +256,10 @@ h4{
   text-align: center;
   font-size: 20px;
   font-weight: 700;
-  margin-left: 20%;
+  margin-left: 5%;
 }
   .button__icon {
-  font-size: 3em;
+  font-size: 2em;
   background: none;
   margin-top: 4%;
   position: relative;
