@@ -104,5 +104,51 @@
     background-color: black;
     color: #ffffff;
     }
+@media screen and (max-width: 600px){
+.content .par{
+    font-family: 'Arial';
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 25px;
+}
+
+.content h1{
+    font-family: 'Arial';
+    font-size: 30px;
+    letter-spacing: 2px;
+    margin-top: -1%;
+}
+.content h2{
+    font-family: 'Times New Roman';
+    font-size: 25px;
+    letter-spacing: 2px;
+}
+
+.content .cn{
+    width: 75px;
+    height: 25px;
+    background: #ffffff;
+    border: 1px solid #000000;
+    margin-bottom: 10px;
+    font-size: 18px;
+    margin-left: 90%;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: .4s ease;
+}
+
+.content .theme{
+    width: 75px;
+    height: 25px;
+    background: #ffffff;
+    border: 1px solid #000000;
+    font-size: 18px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: .4s ease;
+    margin-left: 90%;
+    position: absolute;
+}
+}
   
   
