@@ -193,7 +193,7 @@ h3{
 p{
   font-size: 10px;
   letter-spacing: 0.5px;
-  line-height: 20px;
+  line-height: 15px;
 }
 h4{
   font-size: 15px;
@@ -227,12 +227,11 @@ h4{
 }
   .tabcontent {
   float: left;
-  padding-left: 30px;
   /*border: 1px solid #ccc;*/
-  width: 70%;
+  width: 65%;
   border-left: 10px;
   height: auto;
-  text-align: justify;
+  text-align: center;
   line-height: 30px;
 }
   .button {
