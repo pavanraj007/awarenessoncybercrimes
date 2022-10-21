@@ -124,6 +124,7 @@
     font-family: 'Arial';
     font-size: 16px;
     text-align: center;
+    content: left;
     margin: 95%;
 }
 
@@ -167,5 +168,9 @@
     transition: .4s ease;
     margin-left: 70%;
     position: relative;
+}
+    .content span1{
+    color: #ffffff;
+    font-size: 40px
 }
 }
