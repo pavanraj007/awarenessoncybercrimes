@@ -119,3 +119,53 @@
       ul.a {
         list-style-type: square;
       }
+@media screen and (max-width: 600px){
+.content .par{
+    font-family: 'Arial';
+    font-size: 16px;
+    text-align: center;
+    margin: 95%;
+}
+
+.content h1{
+    font-family: 'Arial';
+    font-size: 30px;
+    letter-spacing: auto;
+    margin-top: 1%;
+    line-height: auto;
+    text-align: left;
+}
+.content h2{
+    font-family: 'Times New Roman';
+    font-size: 25px;
+    line-height: auto;
+    letter-spacing: auto;
+    text-align: left;
+}
+
+.content .cn{
+    width: 90px;
+    height: 40px;
+    background: #ffffff;
+    border: 1px solid #000000;
+    margin-bottom: 10px;
+    font-size: 15px;
+    margin-left: 75%;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: .4s ease;
+}
+
+.content .theme{
+    width: 120px;
+    height: 30px;
+    background: #ffffff;
+    border: 1px solid #000000;
+    font-size: 15px;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: .4s ease;
+    margin-left: 70%;
+    position: relative;
+}
+}
