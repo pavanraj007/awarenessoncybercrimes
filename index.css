@@ -308,9 +308,8 @@ a:active {
     text-decoration: none;
 }
 @media screen and (max-width: 600px){
-    width: 500px;
-    height: auto;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(https://www.ict.eu/sites/corporate/files/images/Cyber%20security%20header_1920x1280px%20%281%29.jpg);
+   
+    background-color: #000000; 
     
  .content h1{
     font-size: 120px;
